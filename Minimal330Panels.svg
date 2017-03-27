@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Minimal330Panels.ps">
+   sodipodi:docname="Minimal330Panels.svg">
   <metadata
      id="metadata972">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,12 +39,12 @@
      id="namedview970"
      showgrid="false"
      inkscape:zoom="0.44851479"
-     inkscape:cx="788.81429"
-     inkscape:cy="499.10535"
+     inkscape:cx="454.82003"
+     inkscape:cy="631.87969"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g856" />
+     inkscape:current-layer="g766" />
   <desc
      id="desc4">/home/brettrd/Documents/Projects/Quad/LaserWorkshop/Minimal330Panels.dxf - scale = 1.000000</desc>
   <defs
@@ -488,206 +488,6 @@
      inkscape:groupmode="layer"
      inkscape:label="BasePlate"
      id="g188">
-    <path
-       d="M 1443.102,128.56499 1372.2359,234.8642"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path190"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1372.2359,234.8642 0,212.59843"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path192"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1655.7004,447.46263 0,-212.59843"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path194"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 1655.7004,234.8642 1584.8343,128.56499"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path196"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1584.8343,128.56499 -141.7323,0"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path198"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1372.2359,447.46263 70.8661,141.73228"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path200"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1443.102,589.19491 141.7323,0"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path202"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1584.8343,589.19491 70.8661,-141.73228"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path204"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1417.5156,472.72655 -9.5938,-10.43259"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path206"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1438.3808,453.53892 -9.5938,-10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path208"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1407.9218,462.29396 20.8652,-19.18764"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path210"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1438.3808,453.53892 -20.8652,19.18763"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path212"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1610.4207,472.72655 9.5938,-10.43259"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path214"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1589.5555,453.53892 9.5938,-10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path216"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1620.0145,462.29396 -20.8652,-19.18764"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path218"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1589.5555,453.53892 20.8652,19.18763"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path220"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1417.5156,209.60027 -9.5938,10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path222"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1438.3808,228.78791 -9.5938,10.43259"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path224"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1407.9218,220.03287 20.8652,19.18763"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path226"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1438.3808,228.78791 -20.8652,-19.18764"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path228"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1610.4207,209.60027 9.5938,10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path230"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1589.5555,228.78791 9.5938,10.43259"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path232"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1620.0145,220.03287 -20.8652,19.18763"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path234"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1589.5555,228.78791 20.8652,-19.18764"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path236"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1414.7555,234.8642 a 7.086614,7.086614 0 1 0 -14.1732,0 7.086614,7.086614 0 1 0 14.1732,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path238"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1627.354,234.8642 a 7.086614,7.086614 0 1 0 -14.1733,0 7.086614,7.086614 0 1 0 14.1733,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path240"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1627.354,447.46263 a 7.086614,7.086614 0 1 0 -14.1733,0 7.086614,7.086614 0 1 0 14.1733,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path242"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1414.7555,447.46263 a 7.086614,7.086614 0 1 0 -14.1732,0 7.086614,7.086614 0 1 0 14.1732,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path244"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1443.102,362.42326 0,-42.51969"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path246"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1428.9288,319.90357 0,42.51969"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path248"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1443.102,319.90357 a 7.0866145,7.0866145 0 1 0 -14.1732,0"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path250"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1428.9288,362.42326 a 7.0866145,7.0866145 0 0 0 14.1732,0"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path252"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1584.8343,362.42326 0,-42.51969"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path254"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1599.0075,319.90357 0,42.51969"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path256"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1599.0075,319.90357 a 7.0866145,7.0866145 0 1 0 -14.1732,0"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path258"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1584.8343,362.42326 a 7.0866145,7.0866145 0 0 0 14.1732,0"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path260"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1599.0075,261.439 a 5.314961,5.314961 0 1 0 -10.6299,0 5.314961,5.314961 0 0 0 10.6299,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path262"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1439.5587,261.439 a 5.314961,5.314961 0 1 0 -10.6299,0 5.314961,5.314961 0 0 0 10.6299,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path264"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1439.5587,420.88782 a 5.314961,5.314961 0 1 0 -10.6299,0 5.314961,5.314961 0 0 0 10.6299,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path266"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1599.0075,420.88782 a 5.314961,5.314961 0 1 0 -10.6299,0 5.314961,5.314961 0 0 0 10.6299,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path268"
-       inkscape:connector-curvature="0" />
     <path
        d="M 131.32765,20.343988 60.461504,126.6432"
        style="fill:none;stroke:#000000;stroke-linecap:round"
@@ -1929,108 +1729,7 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="MotorGeom"
-     id="g766">
-    <path
-       d="m 237.62686,977.0369 a 53.149606,53.149606 0 1 0 -106.29921,0 53.149606,53.149606 0 0 0 106.29921,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path768"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 218.13867,977.0369 a 33.661417,33.661417 0 1 0 -67.32283,0 33.661417,33.661417 0 0 0 67.32283,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path770"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 212.82371,977.0369 a 28.346457,28.346457 0 1 0 -56.69291,0 28.346457,28.346457 0 1 0 56.69291,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path772"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 136.50784,1029.1996 232.44666,924.87422"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path774"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 132.31457,929.06749 104.32537,95.93881"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path776"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 556.5245,835.30462 a 53.149607,53.149607 0 1 0 -106.29922,0 53.149607,53.149607 0 0 0 106.29922,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path778"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 537.03631,835.30462 a 33.661417,33.661417 0 1 0 -67.32284,0 33.661417,33.661417 0 0 0 67.32284,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path780"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 531.72135,835.30462 a 28.346457,28.346457 0 1 0 -56.69292,0 28.346457,28.346457 0 1 0 56.69292,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path782"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 455.40548,887.4673 551.3443,783.14193"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path784"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 451.2122,787.33521 104.32538,95.93882"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path786"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 556.5245,693.57233 a 53.149607,53.149607 0 1 0 -106.29922,0 53.149607,53.149607 0 0 0 106.29922,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path788"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 537.03631,693.57233 a 33.661417,33.661417 0 1 0 -67.32284,0 33.661417,33.661417 0 0 0 67.32284,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path790"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 531.72135,693.57233 a 28.346457,28.346457 0 1 0 -56.69292,0 28.346457,28.346457 0 1 0 56.69292,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path792"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 451.2122,741.54174 555.53758,645.60293"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path794"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 551.3443,745.73502 455.40548,641.40965"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path796"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 237.62686,551.84005 a 53.149606,53.149606 0 1 0 -106.29921,0 53.149606,53.149606 0 0 0 106.29921,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path798"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 218.13867,551.84005 a 33.661417,33.661417 0 1 0 -67.32283,0 33.661417,33.661417 0 0 0 67.32283,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path800"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 212.82371,551.84005 a 28.346457,28.346457 0 1 0 -56.69291,0 28.346457,28.346457 0 1 0 56.69291,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path802"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 132.31457,599.80946 236.63994,503.87064"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path804"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 232.44666,604.00274 136.50784,499.67737"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path806"
-       inkscape:connector-curvature="0" />
-  </g>
+     id="g766" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="MotorMount"
@@ -2152,146 +1851,6 @@
      inkscape:groupmode="layer"
      inkscape:label="TopPlate"
      id="g856">
-    <path
-       d="M 1407.6689,730.92719 1513.9681,624.62798"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path858"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1513.9681,624.62798 141.7323,0"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path860"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1655.7004,624.62798 106.2992,106.29921"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path862"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1761.9996,730.92719 0,141.73229"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path864"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 1761.9996,872.65948 1655.7004,978.95869"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path866"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1655.7004,978.95869 -141.7323,0"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path868"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 1513.9681,978.95869 1407.6689,872.65948"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path870"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1407.6689,872.65948 0,-141.73229"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path872"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1698.2201,695.49412 a 7.086614,7.086614 0 1 0 -14.1732,0 7.086614,7.086614 0 1 0 14.1732,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path874"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1698.2201,908.09255 a 7.086614,7.086614 0 1 0 -14.1732,0 7.086614,7.086614 0 1 0 14.1732,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path876"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1485.6217,908.09255 a 7.0866145,7.0866145 0 1 0 -14.1732,0 7.0866145,7.0866145 0 0 0 14.1732,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path878"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1485.6217,695.49412 a 7.0866145,7.0866145 0 1 0 -14.1732,0 7.0866145,7.0866145 0 0 0 14.1732,0 z"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path880"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1552.505,855.13367 9.5938,10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path882"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1562.0988,865.56627 15.6489,-14.39073"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path884"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1577.7477,851.17554 -9.5939,-10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path886"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1568.1538,840.74294 -15.6488,14.39073"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path888"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1617.1636,855.13367 -9.5938,10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path890"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1607.5698,865.56627 -15.6489,-14.39073"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path892"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1591.9209,851.17554 9.5938,-10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path894"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1601.5147,840.74294 15.6489,14.39073"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path896"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1552.505,748.453 9.5938,-10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path898"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1562.0988,738.0204 15.6489,14.39073"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path900"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1577.7477,752.41113 -9.5939,10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path902"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 1568.1538,762.84373 1552.505,748.453"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path904"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1617.1636,748.453 -9.5938,-10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path906"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1607.5698,738.0204 -15.6489,14.39073"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path908"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 1591.9209,752.41113 9.5938,10.4326"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path910"
-       inkscape:connector-curvature="0" />
-    <path
-       d="M 1601.5147,762.84373 1617.1636,748.453"
-       style="fill:none;stroke:#000000;stroke-linecap:round"
-       id="path912"
-       inkscape:connector-curvature="0" />
     <path
        d="M 379.35914,232.94241 485.65836,126.6432"
        style="fill:none;stroke:#000000;stroke-linecap:round"
