@@ -49,10 +49,28 @@ An auxiliary channel can be used to change flight behaviours. We lack such an au
 * Angle gives you control of the angle of the body. It won't let you flip over, but still offers good control.
 * Horizon is a friendly mixed mode that will keep your copter level, but still allows you to roll all the way over when you really mean it.
 * Baro takes control of the throttle, using the barometer as an altitude reference, and you tell it how fast to climb or descend.  This can lead to problems when you want to come down in a hurry, or the copter bounces endlessly on landing.
+#### Motor calibration
+All ESCs need to agree on minimum and maximum signals. You can do this all at once via the motors page. (remove the props)
+Set the Master slider to maximum, then connect the battery.  Slide it to the bottom and back to the top twice, listening to the tunes.
+After measuring minimum throttle twice, the motors will turn when you give them throttle via the sliders.
+
+## Flight Issues
 
 ### Arming test
-Move the throttle stick into the arming position (minimum throttle, full right yaw), and watch the read LED in the Naze32. if it goes from blinking to solid, you're ready to fly.
-Move the throttle stick into the disarm position (minimum throttle, full left yaw), and the red LED shoud stark blinking again.
+Move the throttle stick into the arming position (minimum throttle, full right yaw), and watch the green LED in the Naze32. if it goes from blinking to solid, you're ready to fly.
+Move the throttle stick into the disarm position (minimum throttle, full left yaw), and the greem LED should turn off.
+
+### Arming Problems
+* Check your receiver is bound, (the LED on the receiver shoudld be lit only when the transmitter is on)
+* On the handset, the Rudder, Throttle and Elevator should be reversed.  Ailerons should be normal.
+* Throttle trim should be set to minimum. (trims are the small sliders by each stick axis)
+* Yaw trim should be set to zero (mid).
+
+### Flip on takeoff
+* check the props are rotating the correct directions, you can find this diagram in Cleanflight-Configurator when you connect the flight controller.
+* If a motor is turning backwards, swap two of its wires at the ESC.
+
+
 
 ## Taking it further
 These parts were chosen as a solid starting point for a hobby in RC aircraft.\
